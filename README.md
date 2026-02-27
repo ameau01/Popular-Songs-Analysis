@@ -1,7 +1,6 @@
-# CSCA-5632 Unsupervised Machine Learning Final Project
+# Popular Songs Analysis
 
-## Popular Songs Analysis
-
+## CSCA-5632 Unsupervised Machine Learning Project
 This repository contains a **data analytics and machine learning project** exploring trends, patterns, and predictive relationships in popular music datasets. The core code is implemented in the Jupyter notebook **`Popular-Songs-Analysis.ipynb`**, where we load, preprocess, visualize, and model musical features to understand what drives song popularity and other characteristics.
 
 Music streaming data (e.g., Spotify features) includes attributes like **danceability, energy, tempo, loudness, valence, and popularity** — and these can be analyzed to reveal trends across time, genres, and audio characteristics. 
